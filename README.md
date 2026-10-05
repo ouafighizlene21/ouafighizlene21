@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/cosmic-astronaut-banner.jpg" width="100%" alt="Astronaute dans une galaxie violette et cyan — Ghizlène Ouafi" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+Building+with+AI+and+intelligent+systems;%E2%9C%A8+Learning+fast.+Sharing+what+I+learn.;%F0%9F%A4%BE+Technology+meets+teamwork+and+handball;%F0%9F%8C%8C+Curiosity+has+no+finish+line" alt="Animated lines about AI, learning, teamwork and handball" />
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/profile-animated-hero.gif" width="100%" alt="Bannière animée : écriture à gauche, astronaute dégagé à droite" />
 </p>
 
 <p align="center">
@@ -13,19 +10,20 @@
 
 ## 👋 About Me
 
-🚀 **Junior Developer & AI Architect** with a Master’s degree in Computer Science, specializing in **Decision Support and Intelligent Systems**. I’m interested in turning complex problems into useful, thoughtful solutions through AI, machine learning, optimization, and software development.
+<table><tr><td width="62%" valign="middle">
 
-🎓 I teach **Artificial Intelligence practical classes** to third-year undergraduate students at **University Oran 1 Ahmed Ben Bella** (since March 2026).
+🚀 **Junior Developer & AI Architect** with a Master’s degree in Computer Science, specializing in **Decision Support and Intelligent Systems**. I turn complex problems into useful solutions through AI, machine learning, optimization, and software development.
 
-🤾 Alongside technology, I’m completing an **internship toward my First-Degree Handball Coach diploma**. I’m a handball player since 2016 and President of **CSA Castors Handball Club** since 2024.
+🎓 I teach **Artificial Intelligence practical classes** at **University Oran 1 Ahmed Ben Bella**. 🤾 I’m also completing my internship toward the **First-Degree Handball Coach diploma**, and I’m President of **CSA Castors Handball Club**.
 
 > ✨ *“Knowledge grows when it is shared.”* ✨
 
-## 🌌 My Tech Universe
+</td><td width="38%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/tech-sphere-orbits.gif" width="100%" alt="Bibliothèques et outils orbitant sous forme de sphères colorées" />
+<br/><sub>🪐 My libraries & tools in orbit</sub>
+</td></tr></table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/animated-tech-globe.gif" width="340" alt="Globe spatial animé aux couleurs cyan et violet" />
-</p>
+## 🪐 My Tech Universe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
