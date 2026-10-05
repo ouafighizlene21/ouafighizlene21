@@ -1,92 +1,130 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/profile-animated-hero.gif" width="100%" alt="Bannière animée : écriture à gauche, astronaute dégagé à droite" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10051D,50:472080,100:00D9FF&height=145&section=header&text=GHIZL%C3%88NE%20OUAFI&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Bannière cosmique étoilée" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghizl%C3%A8ne-ouafi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/profile-animated-hero.gif" width="100%" alt="Bannière animée avec texte à gauche et astronaute à droite" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghizl%C3%A8ne-ouafi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/AI-Always%20exploring-7B2CBF?style=for-the-badge&logo=probot&logoColor=white" alt="Always exploring AI" />
-  <img src="https://img.shields.io/badge/Handball-Team%20spirit-00B8D9?style=for-the-badge&logoColor=white" alt="Handball and team spirit" />
+  <img src="https://img.shields.io/badge/Handball-Team%20spirit-00B8D9?style=for-the-badge&logoColor=white" alt="Handball" />
 </p>
 
-## 👋 About Me
+<table>
+<tr>
+<td width="62%" valign="middle">
 
-<table><tr><td width="62%" valign="middle">
+## ✨ About Me
 
-🚀 **Junior Developer & AI Architect** with a Master’s degree in Computer Science, specializing in **Decision Support and Intelligent Systems**. I turn complex problems into useful solutions through AI, machine learning, optimization, and software development.
+🤖 **Junior Developer & AI Architect** with a Master’s degree in Computer Science, specializing in **Decision Support and Intelligent Systems**. I build practical solutions with AI, machine learning, optimization, and software development.
 
-🎓 I teach **Artificial Intelligence practical classes** at **University Oran 1 Ahmed Ben Bella**. 🤾 I’m also completing my internship toward the **First-Degree Handball Coach diploma**, and I’m President of **CSA Castors Handball Club**.
+🧑‍🏫 I teach **Artificial Intelligence practical classes** at **University Oran 1 Ahmed Ben Bella**. I’m completing an internship toward my **First-Degree Handball Coach diploma** and serve as President of **CSA Castors Handball Club**.
 
-> ✨ *“Knowledge grows when it is shared.”* ✨
+> 🌱 “Knowledge grows when it is shared.”
 
-</td><td width="38%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/tech-sphere-orbits.gif" width="100%" alt="Bibliothèques et outils orbitant sous forme de sphères colorées" />
-<br/><sub>🪐 My libraries & tools in orbit</sub>
-</td></tr></table>
+</td>
+<td width="38%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/tech-sphere-orbits.gif" width="100%" alt="Technologies orbiting as colorful spheres" />
+  <br/><sub>🪐 My libraries & tools in orbit</sub>
+</td>
+</tr>
+</table>
 
-## 🪐 My Tech Universe
+---
+
+## 🌐 Languages · a little rotating carousel
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Imbalanced--learn-7B2CBF?style=for-the-badge" alt="Imbalanced-learn" />
-  <img src="https://img.shields.io/badge/Skorecard-00B8D9?style=for-the-badge" alt="Skorecard" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%87%A9%F0%9F%87%BF+Arabic+%E2%80%94+Native;%F0%9F%87%AB%F0%9F%87%B7+French+%E2%80%94+Fluent;%F0%9F%87%AC%F0%9F%87%A7+English+%E2%80%94+Advanced+%2F+Upper-Intermediate" alt="Rotating language carousel: Arabic, French, English" />
 </p>
 
-## 🧠 Focus & Skills
+---
 
-- 🤖 **AI:** Machine Learning, Deep Learning, CNNs, Vision Transformers (ViT), computer vision, classification
-- 🧩 **Decision & Optimization:** constraint programming, combinatorial optimization, complex problem modeling, decision support
-- 💻 **Languages:** Python, Java, C++, R, Bash, SQL, HTML, CSS
-- 🛠️ **Frameworks & tools:** Spring Boot, TensorFlow, Keras, Scikit-learn, Imbalanced-learn, Skorecard, Pandas, NumPy, Matplotlib, Choco Solver, VS Code, Git/GitHub
-- 🔎 **Interests:** intelligent systems, reasoning under uncertainty, AI for science, space data, agriculture, and sport
+## 🛰️ Experience · open a window
 
-## 🚀 Selected Projects
+<details>
+<summary>🧠 AI Teaching · University Oran 1 — click to explore</summary>
+<br/>
+Teaching practical Artificial Intelligence classes and helping students turn concepts into hands-on learning.
+</details>
 
-- 🗓️ **Intelligent university timetable generator** — modeled and solved a real scheduling problem involving **53 student groups and 47 teachers**, with resource, availability, and conflict constraints. Implemented with Java, Spring Boot, and Choco Solver.
-- 📰 **Fake-news detection** — designed and evaluated CNN and Vision Transformer approaches for image-based misinformation classification using the **TID2013** dataset.
-- 💳 **Credit-card default prediction** — built a Python machine-learning model using **Random Forest** and demographic and financial data.
-- 💬 **Sentiment analysis of depressive tweets** — explored text classification with **TF-IDF, TextBlob, and Logistic Regression**.
-- 📍 **Mobile phone location app** — designed and developed as a Bachelor’s project.
+<details>
+<summary>🤾 Handball Coaching Internship · First-Degree Diploma — in progress</summary>
+<br/>
+Developing coaching practice while pursuing the First-Degree Handball Coach diploma. President of CSA Castors Handball Club since 2024; player since 2016.
+</details>
 
-## 🏆 Highlights
+<details>
+<summary>🌍 Volunteering & community — click to explore</summary>
+<br/>
+Mediterranean Games, Oran 2022: supported delegations, logistics, welcome, and orientation. Former astronomy-club member: mentored younger members and contributed to science activities and conferences.
+</details>
+
+---
+
+## 💫 Tech Stack · each constellation has its own color
+
+| 🧠 AI & Machine Learning | 🧮 Decision & Optimization |
+|:---|:---|
+| Machine Learning · Deep Learning · CNNs · Vision Transformers · Computer Vision · Classification | Constraint Programming · Combinatorial Optimization · Complex Problem Modeling · Decision Support |
+
+| 💻 Languages | 🧰 Frameworks, Libraries & Tools |
+|:---|:---|
+| Python · Java · C++ · R · Bash · SQL · HTML · CSS | Spring Boot · TensorFlow · Keras · Scikit-learn · Imbalanced-learn · Skorecard · Pandas · NumPy · Matplotlib · Choco Solver · VS Code · Git · GitHub |
+
+---
+
+## 🚀 Selected Projects · cards in formation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 Intelligent University Timetable
+Modeled a real scheduling problem with **53 student groups and 47 teachers**, accounting for resource, availability, and conflict constraints. Built with Java, Spring Boot, and Choco Solver.
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 Fake-News Detection
+Designed and evaluated **CNN** and **Vision Transformer** approaches for image-based misinformation classification using the **TID2013** dataset.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Credit-Card Default Prediction
+Built a Python machine-learning model using **Random Forest** and demographic and financial data.
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Sentiment Analysis
+Explored depressive-tweet classification with **TF-IDF, TextBlob, and Logistic Regression**.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/tech-orbit-planets.gif" width="54%" alt="Colorful animated orbit of technology planets" />
+</p>
+
+---
+
+## 🏆 Highlights · bright points
 
 - 🌟 Selected among the **Top 15 participants** at the **GITEX GLOBAL AI Application Challenge**, Dubai, 2025.
-- 👩‍🏫 Teaching practical classes in Artificial Intelligence at University Oran 1.
-- 🤾 President of CSA Castors Handball Club; player since 2016.
-- 🌠 Former astronomy-club member: mentored young members and helped organize a public science conference.
+- 🎓 Master 2 in Computer Science — Decision Support & Intelligent Systems, University Oran 1, 2025.
+- 🎓 Bachelor’s degree in Computer Science, University Oran 1, 2021.
+- 🏅 NVIDIA AI & Deep Learning workshop · Cybersecurity training · IVAR Spring School.
 
-## 🎓 Education & Training
+---
 
-- **Master 2 in Computer Science — Decision Support & Intelligent Systems**, University Oran 1 Ahmed Ben Bella, 2025
-- **Bachelor’s degree in Computer Science**, University Oran 1 Ahmed Ben Bella, 2021
-- **First-Degree Handball Coach diploma:** internship in progress
-- Training and participation: **NVIDIA AI & Deep Learning workshop**, **Cybersecurity training**, **IVAR Spring School**, and **Mediterranean Games Oran 2022 volunteer training**
-
-## 🌍 Languages
-
-🇩🇿 Arabic — Native · 🇫🇷 French — Fluent · 🇬🇧 English — Advanced / upper-intermediate
-
-## 🤝 Leadership & Volunteering
-
-- 🤾 **CSA Castors Handball Club** — President since 2024; player since 2016. Team leadership, activity coordination, event organization, and budget management.
-- 🏟️ **Mediterranean Games, Oran 2022** — volunteer supporting delegations, logistics, welcome, and orientation.
-- 🌌 **Astronomy club** — mentored younger members and contributed to science activities and conferences.
-- ✈️ **Travel agency experience** — developed customer-service and organizational skills.
-
-<p align="center"><b>⚡ Build boldly · learn continuously · play as a team ⚡</b></p>
+<p align="center"><b>✨ Build boldly · learn continuously · play as a team ✨</b></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:5A189A,75:7B2CBF,100:10002B&height=125&section=footer&animation=twinkling" width="100%" alt="Animated cyan and violet cosmic footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:7B2CBF,100:10051D&height=110&section=footer&animation=twinkling" width="100%" alt="Pied de page cosmique avec petites étoiles scintillantes" />
 </p>
