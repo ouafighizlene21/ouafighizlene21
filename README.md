@@ -46,14 +46,20 @@
 <tr>
 <td width="68%" valign="top">
 
+<details> 
+<summary>AI Engineer & Developer</summary> 
+<br/> Building intelligent software solutions and turning AI concepts into practical, real-world applications. 
+</details>
+
 <details>
-<summary>🧠 AI Teaching · University Oran 1 — click to explore</summary>
+<summary> AI Teaching · University Oran 1 </summary>
 <br/>
 Teaching practical Artificial Intelligence classes and helping students turn concepts into hands-on learning.
 </details>
 
+
 <details>
-<summary>🤾 Handball Coaching Internship · First-Degree Diploma — in progress</summary>
+<summary> Handball Coaching Internship · First-Degree Diploma — in progress</summary>
 <br/>
 Developing coaching practice while pursuing the First-Degree Handball Coach diploma. President of CSA Castors Handball Club since 2024; player since 2016.
 </details>
