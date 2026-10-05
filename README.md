@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10002B,25:5A189A,65:7B2CBF,100:00D9FF&height=250&section=header&text=Ghizl%C3%A8ne%20Ouafi&fontSize=48&fontColor=FFFFFF&fontAlignY=34&desc=Junior%20Developer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20Curious%20Builder&descSize=18&descAlignY=57&animation=twinkling" width="100%" alt="Animated violet and cyan cosmic banner" />
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/cosmic-astronaut-banner.jpg" width="100%" alt="Astronaute dans une galaxie violette et cyan — Ghizlène Ouafi" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=760&lines=%F0%9F%9A%80+Building+with+AI+and+intelligent+systems;%E2%9C%A8+Learning+fast.+Sharing+what+I+learn.;%F0%9F%A4%BE+Technology+meets+teamwork+and+handball;%F0%9F%8C%8C+Curiosity+has+no+finish+line" alt="Animated lines about AI, learning, teamwork and handball" />
 </p>
@@ -22,12 +21,38 @@
 
 > ✨ *“Knowledge grows when it is shared.”* ✨
 
+## 🌌 My Tech Universe
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/animated-tech-globe.gif" width="340" alt="Globe spatial animé aux couleurs cyan et violet" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Imbalanced--learn-7B2CBF?style=for-the-badge" alt="Imbalanced-learn" />
+  <img src="https://img.shields.io/badge/Skorecard-00B8D9?style=for-the-badge" alt="Skorecard" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
 ## 🧠 Focus & Skills
 
 - 🤖 **AI:** Machine Learning, Deep Learning, CNNs, Vision Transformers (ViT), computer vision, classification
 - 🧩 **Decision & Optimization:** constraint programming, combinatorial optimization, complex problem modeling, decision support
 - 💻 **Languages:** Python, Java, C++, R, Bash, SQL, HTML, CSS
-- 🛠️ **Frameworks & tools:** Spring Boot, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Choco Solver
+- 🛠️ **Frameworks & tools:** Spring Boot, TensorFlow, Keras, Scikit-learn, Imbalanced-learn, Skorecard, Pandas, NumPy, Matplotlib, Choco Solver, VS Code, Git/GitHub
 - 🔎 **Interests:** intelligent systems, reasoning under uncertainty, AI for science, space data, agriculture, and sport
 
 ## 🚀 Selected Projects
