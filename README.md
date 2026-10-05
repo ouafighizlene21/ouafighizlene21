@@ -109,9 +109,6 @@ Explored depressive-tweet classification with **TF-IDF, TextBlob, and Logistic R
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/tech-orbit-planets.gif" width="54%" alt="Colorful animated orbit of technology planets" />
-</p>
 
 ---
 
