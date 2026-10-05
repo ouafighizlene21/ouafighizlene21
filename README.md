@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="middle">
+<td width="68%" valign="middle">
 
 ## ✨ About Me
 
@@ -25,13 +25,11 @@
 > 🌱 “Knowledge grows when it is shared.”
 
 </td>
-<td width="38%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/tech-sphere-orbits.gif" width="100%" alt="Technologies orbiting as colorful spheres" />
-  <br/><sub>🪐 My libraries & tools in orbit</sub>
+<td width="32%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/astronaut-nebula.png" width="210" alt="Astronaute dérivant dans une nébuleuse colorée" />
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🌐 Languages · a little rotating carousel
@@ -43,6 +41,10 @@
 ---
 
 ## 🛰️ Experience · open a window
+
+<table>
+<tr>
+<td width="68%" valign="top">
 
 <details>
 <summary>🧠 AI Teaching · University Oran 1 — click to explore</summary>
@@ -62,53 +64,64 @@ Developing coaching practice while pursuing the First-Degree Handball Coach dipl
 Mediterranean Games, Oran 2022: supported delegations, logistics, welcome, and orientation. Former astronomy-club member: mentored younger members and contributed to science activities and conferences.
 </details>
 
+</td>
+<td width="32%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/astronaut-corridor.png" width="205" alt="Astronaute explorant un passage illuminé" />
+</td>
+</tr>
+</table>
 ---
 
 ## 💫 Tech Stack · each constellation has its own color
 
-| 🧠 AI & Machine Learning | 🧮 Decision & Optimization |
-|:---|:---|
-| Machine Learning · Deep Learning · CNNs · Vision Transformers · Computer Vision · Classification | Constraint Programming · Combinatorial Optimization · Complex Problem Modeling · Decision Support |
+<table>
+<tr>
+<td width="68%" valign="middle">
 
-| 💻 Languages | 🧰 Frameworks, Libraries & Tools |
-|:---|:---|
-| Python · Java · C++ · R · Bash · SQL · HTML · CSS | Spring Boot · TensorFlow · Keras · Scikit-learn · Imbalanced-learn · Skorecard · Pandas · NumPy · Matplotlib · Choco Solver · VS Code · Git · GitHub |
+**🧠 AI & Machine Learning**  
+Machine Learning · Deep Learning · CNNs · Vision Transformers · Computer Vision · Classification
 
+**🧮 Decision & Optimization**  
+Constraint Programming · Combinatorial Optimization · Complex Problem Modeling · Decision Support
+
+**💻 Languages**  
+Python · Java · C++ · R · Bash · SQL · HTML · CSS
+
+**🧰 Frameworks, Libraries & Tools**  
+Spring Boot · TensorFlow · Keras · Scikit-learn · Imbalanced-learn · Skorecard · Pandas · NumPy · Matplotlib · Choco Solver · VS Code · Git · GitHub
+
+</td>
+<td width="32%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/black-hole-equations.png" width="205" alt="Trou noir et équations scientifiques dans l'espace" />
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Selected Projects · cards in formation
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="68%" valign="middle">
 
-### 📅 Intelligent University Timetable
+**📅 Intelligent University Timetable**  
 Modeled a real scheduling problem with **53 student groups and 47 teachers**, accounting for resource, availability, and conflict constraints. Built with Java, Spring Boot, and Choco Solver.
 
-</td>
-<td width="50%" valign="top">
-
-### 📰 Fake-News Detection
+**📰 Fake-News Detection**  
 Designed and evaluated **CNN** and **Vision Transformer** approaches for image-based misinformation classification using the **TID2013** dataset.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Credit-Card Default Prediction
+**💳 Credit-Card Default Prediction**  
 Built a Python machine-learning model using **Random Forest** and demographic and financial data.
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 Sentiment Analysis
+**💬 Sentiment Analysis**  
 Explored depressive-tweet classification with **TF-IDF, TextBlob, and Logistic Regression**.
 
 </td>
+<td width="32%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/astronaut-profile.png" width="205" alt="Astronaute sur fond étoilé, illustration verticale" />
+</td>
 </tr>
 </table>
-
 
 ---
 
