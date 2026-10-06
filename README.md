@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10051D,50:472080,100:00D9FF&height=145&section=header&text=GHIZL%C3%88NE%20OUAFI&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Bannière cosmique étoilée" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10051D,35:54278F,70:7B2CBF,100:00D9FF&height=160&section=header&text=GHIZL%C3%88NE%20OUAFI&fontSize=46&fontColor=EAFBFF&animation=twinkling&fontAlignY=40&desc=%E2%9C%A6%20%E2%9C%A7%20%E2%9C%A6%20%E2%9C%A7%20%E2%9C%A6%20%E2%9C%A7%20%E2%9C%A6&descSize=20&descColor=9CF4FF&descAlignY=75" width="100%" alt="Vague cosmique scintillante, violette et cyan, avec le nom Ghizlène Ouafi" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/profile-animated-hero.gif" width="100%" alt="Bannière animée avec texte à gauche et astronaute à droite" />
+  <img src="https://raw.githubusercontent.com/ouafighizlene21/ouafighizlene21/main/assets/cosmic-astronaut-name-banner.png" width="100%" alt="Bannière originale avec Ghizlène Ouafi et un astronaute dans un ciel étoilé" />
 </p>
 
 <p align="center">
@@ -142,5 +142,5 @@ Explored depressive-tweet classification with **TF-IDF, TextBlob, and Logistic R
 
 <p align="center"><b>✨ Build boldly · learn continuously · play as a team ✨</b></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,45:7B2CBF,100:10051D&height=110&section=footer&animation=twinkling" width="100%" alt="Pied de page cosmique avec petites étoiles scintillantes" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,25:7B2CBF,60:472080,100:10051D&height=125&section=footer&animation=twinkling&desc=%E2%9C%A6%20%E2%9C%A7%20%E2%9C%A6%20%E2%9C%A7%20%E2%9C%A6%20%E2%9C%A7%20%E2%9C%A6&descSize=18&descColor=9CF4FF&descAlignY=70" width="100%" alt="Pied de page en vague cosmique violette et cyan avec de petites étoiles scintillantes" />
 </p>
